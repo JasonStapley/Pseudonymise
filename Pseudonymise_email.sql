@@ -74,4 +74,4 @@ GO
 
 
 SELECT [dbo].[UDF_Pseudonymise_Email]('jasonstapley@somewhere.com')
-
+-- Will return something like 208043884159539324358285416562161116604310@ZZZ.ZZZ
